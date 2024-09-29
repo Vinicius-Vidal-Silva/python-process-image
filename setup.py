@@ -14,7 +14,7 @@ setup(
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="my_github_repository_project_link", #eu adicionei essa virgula, se der pau, remover
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
